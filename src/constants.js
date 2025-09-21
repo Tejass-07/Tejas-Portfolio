@@ -39,7 +39,7 @@ import Bluestock_logo from './assets/company_logo/Bluestock_logo.png';
 import Ibm_logo from './assets/company_logo/Ibm_logo.png';
 
 // Education Section Logo's
-import spis_logo from './assets/education_logo/spis_logo.png';
+import Spis_logo from './assets/education_logo/Spis_logo.png';
 import pccoer_logo from './assets/education_logo/pccoer-logo.png';
 import Kthm_logo from './assets/education_logo/Kthm_logo.png';
 
@@ -190,7 +190,7 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      img: spis_logo,
+      img: Spis_logo,
       school: "Sharad Pawar International School",
       date: "Apr 2019 - March 2020",
       grade: "8.4 CGPA",
