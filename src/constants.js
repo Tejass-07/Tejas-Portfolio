@@ -243,7 +243,7 @@ export const SkillsInfo = [
       id: 3,
       title: "Currency Converter Web App",
       description:
-       "A modern and responsive currency converter application that enables real-time conversion between global currencies. Built using React.js and Tailwind CSS, the app integrates a reliable free exchange-rate API to fetch live data, dynamically updates country flags, and delivers fast, user-friendly conversions. Deployed on Vercel for seamless performance."
+       "A modern and responsive currency converter application that enables real-time conversion between global currencies. Built using React.js and Tailwind CSS, the app integrates a reliable free exchange-rate API to fetch live data, dynamically updates country flags, and delivers fast, user-friendly conversions. Deployed on Vercel for seamless performance.",
       image: npmLogo,
       tags: ["React JS", "Node.js", "NPM", "Validation"],
       github: "https://github.com/codingmastr/cmtk-email-validator",
