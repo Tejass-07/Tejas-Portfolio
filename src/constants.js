@@ -245,7 +245,7 @@ export const SkillsInfo = [
       description:
        "A modern and responsive currency converter application that enables real-time conversion between global currencies. Built using React.js and Tailwind CSS, the app integrates a reliable free exchange-rate API to fetch live data, dynamically updates country flags, and delivers fast, user-friendly conversions. Deployed on Vercel for seamless performance.",
       image: npmLogo,
-      tags: ["React JS", "Node.js", "NPM", "Validation"],
+      tags: ["HTML", "CSS", "JavaScript", "Frankfurter API","Flags API" ,"GitHub Pages"],
       github: "https://github.com/Tejass-07/Currency-Converter.git",
       webapp: "https://tejass-07.github.io/Currency-Converter/",
     },
